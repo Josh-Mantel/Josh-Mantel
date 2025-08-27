@@ -13,6 +13,10 @@
   <img src="https://skillicons.dev/icons?i=gcp,gitlab,github,grafana,kali,nginx,powershell,pycharm,git,postman,terraform,tensorflow" />
 </p>
 
+## 📕 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <hr>
 
 <!---
