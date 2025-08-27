@@ -10,7 +10,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,ansible,ts,nodejs,react,nextjs,docker,postgres,flask,py" />
-  <img src="https://skillicons.dev/icons?i=gcp,gitlab,github,grafana,kali,nginx,powershell,pycham,git,postman,terraform,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=gcp,gitlab,github,grafana,kali,nginx,powershell,pycharm,git,postman,terraform,tensorflow" />
 </p>
 
 <hr>
